@@ -79,11 +79,6 @@ pin constants at the top of `sonar_radar.ino` to match your build).
 The dart launcher is a separate circuit operated by a physical button, kept
 apart from the software for safety; it is not controlled by this code.
 
-### Credits
-
-Group project by Team 2P22. My part was the host software (radar display,
-serial communication, target detection and control).
-
 ---
 
 ## 中文
@@ -144,7 +139,3 @@ python main.py --port /dev/tty.usbmodemXXXX  # macOS / Linux
 固件中的默认接线：TRIG → D9，ECHO → D10，舵机信号线 → D6（可在 `sonar_radar.ino` 开头修改引脚常量）。
 
 飞镖发射器是独立电路，出于安全考虑由实体按钮手动触发，不受本程序控制。
-
-### 致谢
-
-Team 2P22 小组项目。我负责上位机软件部分（雷达显示、串口通信、目标检测与控制）。
