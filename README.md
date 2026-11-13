@@ -12,8 +12,8 @@ A servo-mounted ultrasonic sensor sweeps 0–180°, an Arduino streams the readi
 over USB serial, and a Python program draws them on a live radar display, finds
 the nearest object and can turn the sensor to face it.
 
-Built as a four-week group project for ELEC222 at the University of Liverpool
-(Year 2 of the Liverpool programme, Year 3 on the XJTLU 2+2 route), January–February 2025.
+Built as a four-week group project for ELEC222 at the University of Liverpool,
+January–February 2025.
 Team blog: <https://radarsystem2025.blogspot.com/>
 
 ### How it works
@@ -86,8 +86,7 @@ apart from the software for safety; it is not controlled by this code.
 舵机带动超声波传感器在 0–180° 范围内来回扫描，Arduino 通过 USB 串口把测量值发给电脑，
 Python 程序把它们实时画在雷达图上，找出最近的物体，并可以让传感器转过去对准它。
 
-本项目是利物浦大学 ELEC222 课程的四周小组项目（利物浦本校的二年级课程，西浦 2+2 路线的大三），
-完成于 2025 年 1 月至 2 月。
+本项目是利物浦大学 ELEC222 课程的四周小组项目，完成于 2025 年 1 月至 2 月。
 小组博客：<https://radarsystem2025.blogspot.com/>
 
 ### 工作原理
