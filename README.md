@@ -16,6 +16,12 @@ Built as a four-week group project for ELEC222 at the University of Liverpool,
 January–February 2025.
 Team blog: <https://radarsystem2025.blogspot.com/>
 
+### Team & Contributions
+
+This ELEC222 project was completed by a team of five students. GitHub may list
+fewer contributors because the repository's commit history does not contain
+commits that GitHub can attribute to every team member.
+
 ### How it works
 
 ```
@@ -88,6 +94,11 @@ Python 程序把它们实时画在雷达图上，找出最近的物体，并可�
 
 本项目是利物浦大学 ELEC222 课程的四周小组项目，完成于 2025 年 1 月至 2 月。
 小组博客：<https://radarsystem2025.blogspot.com/>
+
+### 团队与贡献
+
+本 ELEC222 课程项目由五名学生共同完成。由于仓库的提交记录未能关联到每位组员的 GitHub
+账号，GitHub 显示的贡献者人数可能少于实际团队人数。
 
 ### 工作原理
 
